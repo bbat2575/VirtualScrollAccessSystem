@@ -1,0 +1,13 @@
+USERNAME:PASSWORD
+-----------------
+admin:admin
+bbat:password
+lulu:password
+lewlew:password
+fmurphy:password
+pete_g:password
+
+LOCKED FILE
+-----------
+The Turing Journal:test
+

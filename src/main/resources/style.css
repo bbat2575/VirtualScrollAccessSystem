@@ -1,0 +1,65 @@
+.root {
+    -fx-background-image: url('images/wooden-table.jpg');
+    -fx-background-size: 100% 100%;
+}
+
+.button {
+    -fx-background-color: #a6b06f;
+    -fx-font-family: "Georgia";
+    -fx-font-size: 16px;
+}
+
+.button:hover {
+    -fx-background-color: #b3bf73;
+}
+
+.scroll-buttons {
+    -fx-background-color: #d4c8ba;
+}
+
+.scroll-pane {
+    -fx-border-color: black;
+    -fx-border-width: 1;
+    -fx-background: transparent;
+    -fx-background-color: transparent;
+}
+
+#title {
+    -fx-font-family: "Arial";
+    -fx-font-size: 28px;
+    -fx-text-fill: white;
+}
+
+#usersTitle {
+    -fx-font-family: "Arial";
+    -fx-font-size: 20px;
+}
+
+.label {
+    -fx-font-family: "Georgia";
+    -fx-font-size: 16px;
+    -fx-text-fill: white;
+}
+
+#resultOutput {
+    -fx-font-style: italic;
+    -fx-font-family: "Arial";
+    -fx-font-size: 20px;
+    -fx-text-fill: #303030;
+}
+
+#resultOutput2 {
+    -fx-font-style: italic;
+    -fx-font-family: "Arial";
+    -fx-font-size: 12px;
+    -fx-text-fill: red;
+}
+
+#scrollText {
+    -fx-font-family: "Georgia";
+    -fx-font-size: 14;
+}
+
+#scrollViewArea {
+    -fx-background-color: white;
+}

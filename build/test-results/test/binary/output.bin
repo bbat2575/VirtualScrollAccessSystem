@@ -1,0 +1,96 @@
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+D[SQLITE_ERROR] SQL error or missing database (no such table: user)
+D[SQLITE_ERROR] SQL error or missing database (no such table: user)
+D[SQLITE_ERROR] SQL error or missing database (no such table: user)
+D[SQLITE_ERROR] SQL error or missing database (no such table: user)
+OSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: user)
+OSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: user)
+OSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: user)
+OSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: user)
+OSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: user)
+D[SQLITE_ERROR] SQL error or missing database (no such table: user)
+G[SQLITE_ERROR] SQL error or missing database (no such table: scrolls)
+G[SQLITE_ERROR] SQL error or missing database (no such table: scrolls)
+RSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: scrolls)
+YSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: scrollsHistory)
+RSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: scrolls)
+RSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: scrolls)
+RSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: scrolls)
+G[SQLITE_ERROR] SQL error or missing database (no such table: scrolls)
+G[SQLITE_ERROR] SQL error or missing database (no such table: scrolls)
+RSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: scrolls)
+RSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: scrolls)
+RSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: scrolls)
+YSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: scrollsHistory)
+YSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: scrollsHistory)
+RSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: scrolls)
+YSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: scrollsHistory)
+YSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: scrollsHistory)
+RSQL Error: [SQLITE_ERROR] SQL error or missing database (no such table: scrolls)
+,Connection to SQLite has been established.
+	,Connection to SQLite has been established.
+
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+User not found.
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+6No suitable driver found for jdbc:invalid_sqlite_url
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+8asfasf.txt (The system cannot find the file specified)
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+Scroll not found.
+,Connection to SQLite has been established.
+-Text 'wrong' could not be parsed at index 0
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+,Connection to SQLite has been established.
+ ,Connection to SQLite has been established.
+!,Connection to SQLite has been established.
+",Connection to SQLite has been established.
+#,Connection to SQLite has been established.
+#d[SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: user.ID)
+$,Connection to SQLite has been established.
+%,Connection to SQLite has been established.
+%-Text 'wrong' could not be parsed at index 0
+&,Connection to SQLite has been established.
+',Connection to SQLite has been established.
+(,Connection to SQLite has been established.
+),Connection to SQLite has been established.
+)User not found.
+*,Connection to SQLite has been established.
++,Connection to SQLite has been established.
+,,Connection to SQLite has been established.
+-,Connection to SQLite has been established.
+.,Connection to SQLite has been established.
+/,Connection to SQLite has been established.
+0,Connection to SQLite has been established.
+1,Connection to SQLite has been established.
+2,Connection to SQLite has been established.
+2a[SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: user.username)
+3,Connection to SQLite has been established.
+3Scroll not found.
+4,Connection to SQLite has been established.
+5,Connection to SQLite has been established.
+6,Connection to SQLite has been established.
+7,Connection to SQLite has been established.
+7a[SQLITE_CONSTRAINT_UNIQUE] A UNIQUE constraint failed (UNIQUE constraint failed: user.username)
+8,Connection to SQLite has been established.
+9,Connection to SQLite has been established.
