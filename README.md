@@ -15,13 +15,13 @@ gradle test jacocoTestReport
 ```
 
 ## Admin Privileges
-Should you wish to use the application as the admin user (add/edit/remove users and scrolls; set scroll of the day):  
+Should you wish to use the application as admin (add/edit/remove users and scrolls; set scroll of the day):  
 <br>
 Username: admin  
 Password: admin
 
 ## User Accounts
-The program includes several preconfigured user accounts. The login credentials for these accounts are as follows:
+The program includes several preconfigured user accounts:  
 <br>
 Username: bbat  
 Password: password
@@ -38,8 +38,8 @@ Password: password
 Username: pete_g  
 Password: password
 
-## Locked Scrolls
-The program contains a locked scroll that requires a password to unlock:  
+## Locked Scrolls 
+The program features a locked scroll that requires a password for access:
 <br>
 Filename: The Turing Journal  
 Password: test
