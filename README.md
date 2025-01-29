@@ -1,33 +1,21 @@
-# Nathan_LAB05_Group03 - Bassam, Lewis, Lucy and Jake
-## How to run the program:
-1. Clone the git repository using link in on GitHub
-2. Open the cloned folder
-3. Navigate to the "VirtualScrollAccessSystem" folder
-4. Open the folder in an IDE, or alternatively, open your terminal and navigate to the folder
-5. Type in the command "gradle clean build run"
+# Virtual Scroll Access System
 
-## How to use the program:
-1. Sign in as Guest to view scrolls
-2. Create an account to gain additional privileges such as uploading, downloading, editing and deleting scrolls
-3. Users with admin credentials can also edit or delete any scroll, view user profiles, add/delete users, and view stats on scrolls and users
-4. For users other than admin, locked scrolls require you to input a password before viewing
+**A file management platform that enables users to store, download, preview, and edit files in binary format.**
 
-## How to test the program:
-1. Clone the git repository using link in on GitHub
-2. Open the cloned folder
-3. Navigate to the "VirtualScrollAccessSystem" folder
-4. Type in the command "gradle test jacocoTestReport" in the terminal
+## How To Run
 
-## How to contribute/collaborate on the codebase - optional
-1. Clone the git repository using link in on GitHub
-2. Create a new branch separate from the main branch
-3. Make necessary code changes/contributions - see example operations on DB on SQLOperations and example GUI implementations accordingly
-4. Push changes to git repository
-5. Merge changes with main branch
-6. Resolve any merge conflicts
+```bash
+gradle clean build run
+```
 
-## Admin user
-Should you wish to use the application as the admin user, the login credentials are as follows:    
+## How To Test:
+
+```bash
+gradle test jacocoTestReport
+```
+
+## Admin Privileges
+Should you wish to use the application as the admin user (add/edit/remove users and scrolls; set scroll of the day):  
 <br>
 Username: admin  
 Password: admin
@@ -55,3 +43,30 @@ The program contains a locked scroll that requires a password to unlock:
 <br>
 Filename: The Turing Journal  
 Password: test
+
+## Tech Stack
+- JDK 17
+- JavaFX 17
+- Gradle 8.5
+- JUnit 5
+- JaCoCo
+
+## Preview
+
+<p align="center">
+    <img src="https://github.com/bbat2575/VirtualScrollAccessSystem/blob/main/images/VSAS-MainPage.png"/>
+</p>
+<p align="center">
+    <img src="https://github.com/bbat2575/VirtualScrollAccessSystem/blob/main/images/GUI-UserProfileEditPage.png"/>
+</p>
+<p align="center">
+    <img src="https://github.com/bbat2575/VirtualScrollAccessSystem/blob/main/images/GUI-LockedScroll.png"/>
+</p>
+<p align="center">
+    <img src="https://github.com/bbat2575/VirtualScrollAccessSystem/blob/main/images/GUI-SearchOptions.png"/>
+</p>
+<p align="center">
+    <img src="https://github.com/bbat2575/VirtualScrollAccessSystem/blob/main/images/GUI-ViewScrolsPage.png"/>
+</p>
+
+
