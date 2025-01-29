@@ -20,8 +20,8 @@ Should you wish to use the application as the admin user (add/edit/remove users 
 Username: admin  
 Password: admin
 
-## Existing users
-There are several existing user accounts that come with the program, their login credentials are as follows:  
+## User Accounts
+The program includes several preconfigured user accounts. The login credentials for these accounts are as follows:
 <br>
 Username: bbat  
 Password: password
@@ -38,7 +38,7 @@ Password: password
 Username: pete_g  
 Password: password
 
-## Locked scrolls
+## Locked Scrolls
 The program contains a locked scroll that requires a password to unlock:  
 <br>
 Filename: The Turing Journal  
